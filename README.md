@@ -1,2 +1,2 @@
-# weather-forecast
-weather forecast app
+# Weather Forecast app with Angular JS 
+http://hs105133.github.io/weather-forecast/
